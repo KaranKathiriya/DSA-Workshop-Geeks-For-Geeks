@@ -43,8 +43,7 @@ Constraints:
 
 ## Solution
 
-// { Driver Code Starts
-//Initial template for C++
+
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -55,6 +54,7 @@ using namespace std;
 //User function template for C++
 
 class Solution{
+
 public:
     
     long long getSmallestDivNum(long long n){
@@ -66,9 +66,8 @@ public:
     }
 };
 
-// { Driver Code Starts.
-
 int main() {
+
     int t;
     
     cin>>t;
@@ -90,5 +89,3 @@ int main() {
     return 0;
     
 }  
-
-// } Driver Code Ends
